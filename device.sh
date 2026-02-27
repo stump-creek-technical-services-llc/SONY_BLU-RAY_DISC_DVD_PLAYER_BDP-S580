@@ -6,13 +6,13 @@
 #   . device.sh
 #   echo "Nice ${DEV_NAME} you have there."
 
-export DEV_MFR=GizmoTek
-export DEV_NAME=Gizmo
-export DEV_PN=1234
-export DEV_VER=1
+export DEV_MFR=SONY
+export DEV_NAME=BLU-RAY_Disc_DVD_Player
+export DEV_PN=BDP-S580
+export DEV_VER=
 
-export DEV_TAG=GizmoTek_Gizmo_1234_v1
-export DEV_TAG_SC=gizmotek_gizmo_1234_v1
+export DEV_TAG=SONY_BLU-RAY_Disc_DVD_Player_BDP-S580
+export DEV_TAG_SC=sony_blu-ray_disc_dvd_player_bdp-s580
 
 export FW_RESET_FILENAME=${DEV_TAG_SC}.reset.bin
 export FW_FILENAME=${DEV_TAG_SC}.bin
